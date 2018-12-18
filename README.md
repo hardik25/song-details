@@ -9,4 +9,4 @@ A basic app created using react-redux to demonstrate the use of actions, action 
 2. Move to the project root, and install dependencies using "npm install"
 3. Run the app using "npm start"
 
-![alt text](https://raw.githubusercontent.com/hardik25/song-details/master/demoScreenshot.jpeg)
+![alt text](https://github.com/hardik25/song-details/blob/master/demoScreenshot.JPG)
